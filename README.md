@@ -1,4 +1,4 @@
-# LLM_RAG# RAG-QA-System
+# LLM_RAG
 
 ## Project Description
 This repository showcases a Retrieval-Augmented Generation (RAG) Question Answering (QA) system. The system utilizes cutting-edge language models and vector databases to deliver precise and contextually relevant responses to user inquiries. The application is designed for easy deployment and scalability, making it suitable for a variety of applications in natural language comprehension and information retrieval.
